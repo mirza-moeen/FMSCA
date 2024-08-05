@@ -1,0 +1,31 @@
+{
+  "name": "muidatatables-custom-toolbar-forked",
+  "version": "0.0.35",
+  "description": "An example on how to use MUIDatatables",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.6",
+    "@mui/material": "^5.16.6",
+    "mui-datatables": "^4.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-loader-spinner": "^6.1.6",
+    "react-loading": "^2.0.3",
+    "react-window": "^1.8.10",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.5",
+    "worker-loader": "^3.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,3 @@
+resolve: {
+    aliasFields: ["module"]
+}
